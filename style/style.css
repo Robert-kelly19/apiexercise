@@ -6,37 +6,32 @@
 
 .head1 {
   background-color: blueviolet;
-  color: white;
-  text-align: center;
 }
 
 .head2 {
   background-color: powderblue;
-  color: white;
-  text-align: center;
 }
 
 .head3 {
   background-color: paleturquoise;
-  color: white;
-  text-align: center;
 }
 
 .head4 {
   background-color: dodgerblue;
-  color: white;
-  text-align: center;
 }
 
 .head5 {
   background-color: darkseagreen;
-  color: white;
-  text-align: center;
 }
 
 .head6 {
   background-color: darkcyan;
-  color: white;
+}
+
+.head h2 {
+  font-family: lora;
   text-align: center;
+  color: white;
+  font-size: x-large;
 }
 
